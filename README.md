@@ -6,8 +6,8 @@ particular product. In Contact page user can contact us after filling form. In T
 user can read about MyAwesome Cart. In  blog I made two pages. In first page user can see blogs. In the second page user can read about
 that blog in brief. And also I added payment gateway(paytm) and facebook plugins in this project.
 
-What can we do from MyAwesomeCart?
+<h1>What can we do from MyAwesomeCart?</h1>
 Online Shopping
 
-Requirements
+<h1>Requirements</h1>
 Python3, Django, HTML, CSS, Bootstrap, JavaScript and jQuery.
